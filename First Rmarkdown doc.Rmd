@@ -28,3 +28,20 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# I'm a big header
+## I'm a smaller header
+### I'm an even smaller header
+
+```{r}
+summary(cars)
+```
+
+I'll make a bullet point
+
+- bullets  
+- **bold**  
+- *italics*  
+
+
+All done with bullets
